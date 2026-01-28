@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![SoloLearn](https://img.shields.io/badge/SoloLearn-blue?logo=sololearn)]
+![SoloLearn](https://img.shields.io/badge/SoloLearn-blue?logo=sololearn)
