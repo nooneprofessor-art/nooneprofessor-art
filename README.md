@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://www.sololearn.com/profile/31869347">
   <img src="https://img.shields.io/badge/SoloLearn-blue?logo=sololearn">
 </a>
+<a href="https://t.me/jonescore">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+</a>
