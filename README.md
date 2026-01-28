@@ -1,4 +1,4 @@
-![GIF](https://example.com/твой_файл.gif)
+![GIF](https://i.gifer.com/g1ge.gif)
 
 ## Hi there 👋
 
