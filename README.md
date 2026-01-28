@@ -1,3 +1,5 @@
+![cool gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 ## Hi there 👋
 
 **nooneprofessor-art/nooneprofessor-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
