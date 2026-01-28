@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![SoloLearn](https://img.shields.io/badge/SoloLearn-blue?logo=sololearn)
+<a href="https://www.sololearn.com/profile/31869347">
+  <img src="https://img.shields.io/badge/SoloLearn-blue?logo=sololearn">
+</a>
