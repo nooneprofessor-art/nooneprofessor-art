@@ -1,4 +1,4 @@
-![GIF](https://i.gifer.com/g1ge.gif)
+
 
 ## Hi there 👋
 
